@@ -1,4 +1,12 @@
-data migration
+Help a newbie with advices.
+My code is not importing the data from excel table to the word template table. Do you have any tips ?
+
+Thank you!
+
+
+
+
+Task description :
 
     Through discussion with the customer, the MOP document has been solidified into a template (including the style and font).
     
